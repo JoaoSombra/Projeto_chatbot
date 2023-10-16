@@ -1,0 +1,7 @@
+@media (max-width: 769px) {}
+
+@media (max-width: 425px) {
+    body {
+        font-size: 90%;
+    }
+}
